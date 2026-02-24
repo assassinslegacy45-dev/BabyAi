@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CiberAI</string>
+    <string name="titulo_pantalla">Asistente ofensivo de laboratorio</string>
+    <string name="hint_comando">Pegue aquí el comando ejecutado (nmap, sqlmap, hydra, etc.)</string>
+    <string name="hint_salida">Pegue aquí la salida o el error del comando</string>
+    <string name="boton_analizar">Analizar y sugerir próximos pasos</string>
+    <string name="label_analisis">Análisis de la ejecución:</string>
+    <string name="label_sugerencias">Siguientes pasos recomendados:</string>
+
+    <!-- Historial -->
+    <string name="boton_historial">Historial</string>
+    <string name="titulo_historial">Historial de análisis</string>
+    <string name="boton_cerrar">Cerrar</string>
+
+    <!-- Root -->
+    <string name="label_root">Ejecutar comando con root / NetHunter</string>
+</resources>
